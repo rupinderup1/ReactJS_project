@@ -1,0 +1,5 @@
+{
+    "NODE_ENV": "development",
+    "jwtprivateket": "developer_jwtprivateket",
+    "db": "mongodb://localhost/ecommerce"
+}
