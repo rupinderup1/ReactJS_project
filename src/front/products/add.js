@@ -1,7 +1,5 @@
 import React from "react";
 import Joi from "joi";
-import fs from 'fs';
-import FormData from 'form-data';
 import Form from "../components/common/form";
 import ProductsServices from "../services/productsServices";
 import CategoriesServices from "../services/categoriesServices";
